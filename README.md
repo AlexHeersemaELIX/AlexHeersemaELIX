@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to brew
 - 📫 How to reach me at home
 - 😄 Pronouns: hehehe
-- ⚡ Fun fact: there is a x86 assembly instruction that implies something nasty!
+- ⚡ Fun fact: there is an x86 assembly instruction that implies something nasty!
 
 <!---
 AlexHeersemaELIX/AlexHeersemaELIX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
